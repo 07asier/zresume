@@ -1,6 +1,6 @@
 FROM alpine
 
-ENV GRAV_VERSION="1.3.4" PASSWORD=""
+ENV GRAV_VERSION="1.3.10" PASSWORD=""
 
 RUN apk update && \
     # Install build dependencies

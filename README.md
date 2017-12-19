@@ -104,6 +104,9 @@ $ docker run -d --name resume \
   -v /resume/pages:/usr/html/user/pages \
   -v /resume/config/:/usr/html/user/config \
   zuolan/resume
+  
+  https://paste2.org/dbYPXX0N
+  
 ```
 
 ## 相关
@@ -113,3 +116,5 @@ $ docker run -d --name resume \
 有大佬用 Swift 实现了一个：[EFResume](https://github.com/EyreFree/EFResume);
 
 MIT协议开源。
+
+
